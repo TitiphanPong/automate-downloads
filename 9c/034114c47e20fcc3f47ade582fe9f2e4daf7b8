@@ -1,0 +1,14 @@
+README.md
+  h_dff115a7f9c5e2 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.3",
+  "base_commit_sha": "9c034114c47e20fcc3f47ade582fe9f2e4daf7b8",
+  "prompts": {},
+  "humans": {
+    "h_dff115a7f9c5e2": {
+      "author": "Titiphan <titiphan.pon@axonstech.com>"
+    }
+  }
+}
