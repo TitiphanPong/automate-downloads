@@ -2,7 +2,11 @@
 
 ดาวน์โหลดโปรแกรม Automate / Rice Farming สำหรับ Windows x64
 
-**[ดาวน์โหลดเวอร์ชันล่าสุด](https://github.com/TitiphanPong/automate-downloads/releases/latest)**
+**[ดาวน์โหลด ZIP v1.1.10](https://github.com/TitiphanPong/automate-downloads/releases/download/v1.1.10/RiceFarming.V.1.1.10.zip)**
+
+เปิด `Automate.exe` ตัวเดียว — `RiceBotWorker.exe` จะเริ่มให้อัตโนมัติ
+
+[ดู Release ล่าสุด](https://github.com/TitiphanPong/automate-downloads/releases/latest)
 
 Repository นี้ใช้เผยแพร่ตัวติดตั้งและบันทึกการเปลี่ยนแปลงเท่านั้น
 การใช้งานโปรแกรมต้องมี License ที่ถูกต้อง
@@ -16,7 +20,7 @@ Repository นี้ใช้เผยแพร่ตัวติดตั้ง
 5. ตรวจสอบ License และค่าตั้งก่อนเริ่มใช้งาน ไม่ต้องติดตั้ง Python หรือฟอนต์เพิ่ม
 
 ถ้าเคยปรับค่าตั้งเอง ให้สำรองไฟล์เดิมแล้วเทียบกับไฟล์รุ่นใหม่ก่อนย้ายค่า
-เก็บเวอร์ชันเก่าไว้ย้อนกลับได้ แต่ไม่ควรเปิดสองเวอร์ชันทำงานพร้อมกัน
+ใช้เวอร์ชันล่าสุดจาก Releases เท่านั้น เวอร์ชันเก่าถอดออกจากหน้าดาวน์โหลดแล้ว
 
 ## โหมดที่รองรับ
 
